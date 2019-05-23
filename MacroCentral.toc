@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: |cFFFF0000Macro Central|r
+## Notes: Macro Central
+## Version: 0.1
+## SavedVariables: MacroCentralDB
+embeds.xml
+
+MacroCentral.lua
